@@ -6,7 +6,7 @@ Nesta apresentação, você aprenderá como utilizar arquiteturas serverless par
 
 ## Slides da Palestra
 
-Os slides desta palestra estão disponíveis [aqui]([link-para-os-slides](https://drive.google.com/file/d/1-Umzn0BiL86_CbHbrnEgCJCJzYNn2AbV/view?usp=sharing)). Fique à vontade para revisitar o conteúdo sempre que precisar.
+Os slides desta palestra estão disponíveis [aqui](https://drive.google.com/file/d/1-Umzn0BiL86_CbHbrnEgCJCJzYNn2AbV/view?usp=sharing). Fique à vontade para revisitar o conteúdo sempre que precisar.
 
 ## Conheça o Treinamento Hero Pro
 
