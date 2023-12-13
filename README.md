@@ -1,3 +1,5 @@
+<img width="auto" src="https://github.com/HeroCodeBR/.github/blob/main/GITHUB.png">
+
 # Implementando seus Microserviços com Serverless
 
 Nesta apresentação, você aprenderá como utilizar arquiteturas serverless para criar e implantar microserviços de forma eficiente e escalável.
@@ -12,6 +14,7 @@ Se você está interessado(a) em elevar seu nível na programação, seja no Fro
 
 Estamos preparando uma condição única e exclusiva para a 3ª turma.
 
+🏆 (COMUNIDADE) Faça parte de um grupo seleto de programadores alto nível no Discord - [Acessar comunidade aqui](https://discord.com/invite/TmU4DdsK7N)
 📸 [Instagram - @herocodebr](https://www.youtube.com/@herocodebr)
 🎥 [Youtube - @herocodebr](https://www.instagram.com/herocodebr/)
 📝 [Blog - herocode.com.br/blog](https://herocode.com.br/blog?utm_source=nodebr23&utm_medium=serveless-speach)
