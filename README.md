@@ -14,10 +14,10 @@ Se você está interessado(a) em elevar seu nível na programação, seja no Fro
 
 Estamos preparando uma condição única e exclusiva para a 3ª turma.
 
-🏆 (COMUNIDADE) Faça parte de um grupo seleto de programadores alto nível no Discord - [Acessar comunidade aqui](https://discord.com/invite/TmU4DdsK7N)
-📸 [Instagram - @herocodebr](https://www.youtube.com/@herocodebr)
-🎥 [Youtube - @herocodebr](https://www.instagram.com/herocodebr/)
-📝 [Blog - herocode.com.br/blog](https://herocode.com.br/blog?utm_source=nodebr23&utm_medium=serveless-speach)
+🏆 (COMUNIDADE) Faça parte de um grupo seleto de programadores alto nível no Discord - [Acessar comunidade aqui](https://discord.com/invite/TmU4DdsK7N)</br>
+📸 [Instagram - @herocodebr](https://www.youtube.com/@herocodebr)</br>
+🎥 [Youtube - @herocodebr](https://www.instagram.com/herocodebr/)</br>
+📝 [Blog - herocode.com.br/blog](https://herocode.com.br/blog?utm_source=nodebr23&utm_medium=serveless-speach)</br>
 
 ---
 
